@@ -1,2 +1,6 @@
 mountpoints:
-  /: https://adobems.sharepoint.com/sites/ssa-1128/Shared%20Documents/1128-WEST
+  /: 
+    url: https://adobems.sharepoint.com/sites/ssa-1128/Shared%20Documents/1128-WEST
+  /da/:
+    url: https://content.ent-da.live/ssa-eds/1128-west/
+    type: markup
